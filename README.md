@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
@@ -41,3 +42,21 @@
 <br>
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+**anshulgole16/anshulgole16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 551dcf3eb510dbd2d0afdd219fe467dd16fc48d6
